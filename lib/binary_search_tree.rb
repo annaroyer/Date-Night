@@ -49,8 +49,7 @@ class BinarySearchTree
   end
 
   def sort
-    subtrees = @head.sort
-    subtrees.flatten.compact
+    @head.subtrees.flatten.compact
   end
 
   def load(file)

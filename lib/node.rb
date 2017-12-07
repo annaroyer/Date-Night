@@ -45,10 +45,10 @@ class Node
     end
   end
 
-  def sort
+  def subtrees
     [@left, data, @right].map do |data|
       if data.class == Node
-        data.sort
+        data.subtrees
       else
         data
       end
