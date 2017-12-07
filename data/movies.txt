@@ -1,0 +1,100 @@
+47, The Godfather
+88, The Shawshank Redemption
+74, Schindler's List
+52, Raging Bull
+90, Casablanca
+9, Citizen Kane
+78, Gone with the Wind
+50, The Wizard of Oz
+24, One Flew Over the Cuckoo's Nest
+41, Lawrence of Arabia
+45, Vertigo
+86, Psycho
+89, The Godfather: Part II
+33, On the Waterfront
+48, Sunset Blvd.
+22, Forrest Gump
+44, The Sound of Music
+87, 12 Angry Men
+59, West Side Story
+35, Star Wars: Episode IV - A New Hope
+83, 2001: A Space Odyssey
+18, E.T. the Extra-Terrestrial
+100, The Silence of the Lambs
+26, Chinatown
+28, The Bridge on the River Kwai
+77, Singin' in the Rain
+56, It's a Wonderful Life
+17, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+29, Some Like It Hot
+96, Ben-Hur
+2, Apocalypse Now
+53, Amadeus
+99, The Lord of the Rings: The Return of the King
+93, Gladiator
+91, Titanic
+38, From Here to Eternity
+15, Saving Private Ryan
+14, Unforgiven
+46, Raiders of the Lost Ark
+51, Rocky
+0, A Streetcar Named Desire
+73, The Philadelphia Story
+3, To Kill a Mockingbird
+19, An American in Paris
+11, The Best Years of Our Lives
+81, My Fair Lady
+39, A Clockwork Orange
+60, Doctor Zhivago
+10, The Searchers
+64, Jaws
+92, Patton
+6, Butch Cassidy and the Sundance Kid
+21, The Treasure of the Sierra Madre
+95, the Bad and the Ugly
+57, The Apartment
+61, Platoon
+68, High Noon
+4, Braveheart
+49, Dances with Wolves
+30, Jurassic Park
+20, The Exorcist
+76, The Pianist
+62, Goodfellas
+55, The Deer Hunter
+36, All Quiet on the Western Front
+72, Bonnie and Clyde
+12, The French Connection
+27, City Lights
+69, It Happened One Night
+23, A Place in the Sun
+32, Midnight Cowboy
+1, Mr. Smith Goes to Washington
+98, Rain Man
+67, Annie Hall
+63, Fargo
+42, Giant
+8, Shane
+13, The Grapes of Wrath
+94, The Green Mile
+84, Close Encounters of the Third Kind
+40, Nashville
+70, Network
+7, The Graduate
+31, American Graffiti
+5, Pulp Fiction
+97, Terms of Endearment
+79, Good Will Hunting
+34, The African Queen
+37, Stagecoach
+82, Mutiny on the Bounty
+66, The Great Dictator
+58, Double Indemnity
+54, The Maltese Falcon
+75, Wuthering Heights
+85, Taxi Driver
+80, Rear Window
+43, The Third Man
+71, Rebel Without a Cause
+16, North by Northwest
+65, Yankee Doodle Dandy

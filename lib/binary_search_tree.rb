@@ -68,7 +68,7 @@ class BinarySearchTree
     @head.nodes_at_depth(depth).map do |node|
       children = node.children + 1
       percent = (children * 100)/@total
-      [node.depth, children, percent]
+      [node.score, children, percent]
     end
   end
 end

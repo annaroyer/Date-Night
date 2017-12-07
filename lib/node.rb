@@ -1,11 +1,11 @@
 require 'pry'
 class Node
   attr_reader :data,
-              :children,
-              :depth
+              :children
 
   attr_accessor :left,
-                :right
+                :right,
+                :depth
 
   def initialize(data)
     @data = data
