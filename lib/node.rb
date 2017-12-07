@@ -1,4 +1,4 @@
-require 'pry'
+
 class Node
   attr_reader :data,
               :children
@@ -65,5 +65,3 @@ class Node
     end
   end
 end
-
-binding.pry

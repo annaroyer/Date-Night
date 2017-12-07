@@ -1,5 +1,5 @@
 require './lib/node'
-require 'pry'
+
 class BinarySearchTree
   attr_reader :head
 
@@ -72,4 +72,3 @@ class BinarySearchTree
     end
   end
 end
-binding.pry
