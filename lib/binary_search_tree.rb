@@ -1,8 +1,7 @@
 require './lib/node'
 require 'pry'
 class BinarySearchTree
-  attr_reader :head,
-              :total
+  attr_reader :head
 
   def initialize
     @head = nil
@@ -66,7 +65,11 @@ class BinarySearchTree
   end
 
   def health(depth)
-    @head.find_depth(depth)
+    @head.nodes_at_depth(depth).map do |node|
+      children = node.children + 1
+      percent = (children * 100)/@total
+      [node.depth, children, percent]
+    end
   end
 end
 binding.pry

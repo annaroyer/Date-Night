@@ -1,17 +1,18 @@
 require 'pry'
 class Node
-  attr_reader :data
+  attr_reader :data,
+              :children,
+              :depth
 
   attr_accessor :left,
-                :right,
-                :depth
+                :right
 
   def initialize(data)
     @data = data
     @left = nil
     @right = nil
     @depth = 0
-    @sorted = false
+    @children = 0
   end
 
   def score
@@ -27,6 +28,7 @@ class Node
   end
 
   def push(node)
+    @children += 1
     node.depth += 1
     if next_node(node.score).nil?
       add(node)
@@ -53,14 +55,14 @@ class Node
     end
   end
 
-  def find_depth(depth)
-      if @depth == depth
-        data
-      else
-        [@left, @right].map do |node|
-          node.find_depth(depth) unless node.nil?
-        end.flatten.compact
-      end
+  def nodes_at_depth(depth)
+    if @depth == depth
+      [self]
+    else
+      [@left, @right].compact.map do |node|
+        node.nodes_at_depth(depth)
+      end.flatten
+    end
   end
 end
 

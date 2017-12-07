@@ -48,5 +48,4 @@ class NodeTest < Minitest::Test
 
     assert_equal node2, result
   end
-
 end
